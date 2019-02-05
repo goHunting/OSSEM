@@ -3,7 +3,8 @@ Suricata produced multiple output files but the Extensible Event Format (EVE) ev
 
 |Log File | Description|
 |----------|----------|
-|fast.log| line based alerts log similar to Snort's fast.log |
+|[fast.log] (fast.log/)| line based alerts log similar to Snort's fast.log |
+
 
 
 
