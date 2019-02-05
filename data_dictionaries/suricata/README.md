@@ -1,2 +1,2 @@
-#Suricata Logs
+# Suricata Logs
 Suricata IDS logs.
