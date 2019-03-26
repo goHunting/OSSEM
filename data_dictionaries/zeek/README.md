@@ -1,5 +1,9 @@
 # Zeek Logs
+
+## Description
 Zeek (Bro IDS) logs.
+
+## Log Files
 
 |Log File| Description  |
 |--|--|
